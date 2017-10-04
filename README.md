@@ -18,3 +18,10 @@ Well designed and great Windows Store apps
 
 ### Honorable Mentions
 [Microsoft Todo](https://www.microsoft.com/store/apps/9NBLGGH5R558) - Will replace Wunderlist some day. It's well designed and is cross platform. Needs more UX tweaks to make it into the top picks.
+
+## Utilties
+* [8Zip](https://www.microsoft.com/store/apps/9WZDNCRFHWB8) - Archiving utility app that supports all major compression standards and is well designed. All the old compression apps that scale terribly should be a thing of the past once you use this app.
+* [Torrex](https://www.microsoft.com/store/apps/9WZDNCRDSGKG) - The best torrent app in the Windows Store. Wide range of Microsoft devices supported.
+* [Quicklook](https://www.microsoft.com/store/apps/9NV4BS3L1H4S) - get macOS like quick preview functionality when higlighting a file.
+
+  ### ... In progress ...
