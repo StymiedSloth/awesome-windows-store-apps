@@ -3,7 +3,7 @@ Well designed and great Windows Store apps
 
 ## Note taking and Markdown apps
 ### Top Picks
-* [Appy Text](https://www.microsoft.com/store/apps/9NBLGGH51KNM)- A terrific alternative to notepad and is capable of markdown. This list was written on App Text.
+* [Appy Text](https://www.microsoft.com/store/apps/9NBLGGH51KNM) - A terrific alternative to notepad and is capable of markdown. This list was written on App Text.
 * [OneNote](https://www.microsoft.com/store/apps/9WZDNCRFHVJL) - Grand daddy of note taking apps. Chock-full of features like inking, screen and web grabs etc.
 * [Evernote](https://www.microsoft.com/store/apps/9WZDNCRFJ3MB) - Comparable to Onenote and provides a lot of features . It's not as well designed and is a more expensive option.
 
